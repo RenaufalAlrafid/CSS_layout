@@ -1,0 +1,35 @@
+ /* contoh inline*/
+ a {
+    background-color: aqua;
+    display: inline-block; 
+}
+ /* contoh inline-block*/
+img{
+    width: 200px;
+    height: 200px;
+}
+
+ /* contoh block*/
+
+ h1,h2,p{
+     background-color:none
+     ;
+ }
+
+ .main{
+     background-color: deepskyblue;
+     width: 500px;
+ }
+
+ .main h2{
+     background-color: aqua;
+ }
+
+/* contoh mengganti display */
+
+.navigasi li{
+    display: inline;
+}
+
+
+
